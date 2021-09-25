@@ -50,3 +50,6 @@ Jānis Gorskis
 SIA Devlead
 janis.gorskis@devlead.lv
 Mob. +37120036541
+TypeScript with React
+
+
