@@ -22,3 +22,31 @@ Jānis Gorskis
 SIA Devlead
 janis.gorskis@devlead.lv
 Mob. +37120036541
+Sveiks,
+
+Pieņemu ka šādi meklējot palīdzēs:
+https://www.google.com/search?q=react+app+example&oq=react+app&aqs=chrome.1.69i57j0i512l6j69i61.4272j0j7&sourceid=chrome&ie=UTF-8
+
+vai
+https://www.google.com/search?q=react+app+typescript+example&sxsrf=AOaemvJRpWQCq8x8Aa6zEbD4KKrSWmqqxA%3A1631958197940&ei=tbRFYZXnOIn7rgTC5InwDA&oq=react+app+typescript+example&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgYIABAFEB4yBggAEAgQHjoHCAAQRxCwAzoHCAAQsAMQQzoHCCMQsAIQJzoGCAAQBxAeOggIABAIEAcQHjoGCAAQDRAeOggIABAHEAUQHkoECEEYAFDu0QJYnNsCYJfdAmgCcAJ4AIAB3wGIAY4MkgEGMC4xMC4xmAEAoAEByAEKwAEB&sclient=gws-wiz&ved=0ahUKEwjVlbSFnojzAhWJvYsKHUJyAs4Q4dUDCA4&uact=5
+
+Attiecīgi izveidojam React web single page application izmantojot Typescript
+
+Kad ir pieejams GitHub links, vari arī to iesūtīt, lai varam pasekotl līdzi progresam
+
+P.S
+E-pastus pieņems sākt ar Sveiki vai Labdien un izveidot parakstus. Mums uzņēmumā arī ir svarīga komunikācija, jo ikdienā šad tad ir arī jākomunicē ar klientiem
+
+Ac,
+Jānis Gorskis
+
+On Sat, Sep 18, 2021 at 12:19 PM Rihards Ivanovs <rihardsivanovs@inbox.lv> wrote:
+Ļoti neprezīci  apraksts * Izveidot jaunu ReactApp ar jaunāko versiju (Typescript utt)?????
+
+
+--
+
+Jānis Gorskis
+SIA Devlead
+janis.gorskis@devlead.lv
+Mob. +37120036541
